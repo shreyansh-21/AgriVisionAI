@@ -1,4 +1,6 @@
 <h1>🌱 Precision Crop and Soil Analysis with Machine Learning</h1>
+<a href="https://crop-prediction-puce.vercel.app/" target="_blank">Check out the Site</a>
+<hr>
 
 <p>This project leverages <strong>machine learning</strong> to analyze soil properties and environmental conditions, providing farmers with precise crop recommendations. 
 By integrating advanced data analytics, it helps optimize resource usage, enhance yield, and promote sustainable farming.</p>
