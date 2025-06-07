@@ -30,17 +30,17 @@ By integrating advanced data analytics, it helps optimize resource usage, enhanc
 
 <h2>🚀 Key Features</h2>
 <ul>
-  <li>✅ Provides **crop recommendations** based on soil and climate data.</li>
-  <li>✅ Uses **predictive modeling** to suggest suitable crops.</li>
-  <li>✅ Offers **data-driven insights** to farmers for better decision-making.</li>
-  <li>✅ Promotes **sustainable agriculture** by optimizing fertilizer and water use.</li>
+  <li>✅ Provides crop recommendations based on soil and climate data.</li>
+  <li>✅ Uses predictive modeling to suggest suitable crops.</li>
+  <li>✅ Offers data-driven insights to farmers for better decision-making.</li>
+  <li>✅ Promotes sustainable agriculture by optimizing fertilizer and water use.</li>
 </ul>
 
 <h2>🔮 Future Scope</h2>
 <ul>
-  <li>🌾 Expansion to include **pest and disease prediction**.</li>
-  <li>📡 Integration with **real-time IoT-based soil sensors**.</li>
-  <li>📱 Development of a **mobile app** for farmers.</li>
+  <li>🌾 Expansion to include pest and disease prediction.</li>
+  <li>📡 Integration with real-time IoT-based soil sensors.</li>
+  <li>📱 Development of a mobile app for farmers.</li>
 </ul>
 
 <hr>
